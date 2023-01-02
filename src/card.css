@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+
+.center{
+/* position: absolute;
+top:30px;
+left:40%; */
+text-align: center;
+
+
+}
+
+
+.content1{
+    background-image: url(./bg.png);
+    height:100vh;
+    width:100%;
+}
+
+.blue{
+    background-color: rgb(164, 242, 242);
+    height:78%;
+    width:30%;
+    border-radius: 10px;
+    /* top:18%;
+    left:33%; */
+    /* position:absolute; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile{
+   padding-left: 30%;
+   padding-top:8%;
+}
+
+.name{
+    padding-left: 34%;
+}
+
+.para{
+    /* padding-left: 13%; */
+    /* padding-right:12%; */
+    text-align: center;
+}
+
+.watch{
+    padding-left: 34%;
+   
+
+}

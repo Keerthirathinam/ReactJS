@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.content2{
+    background-image:url("./galaxy.jpg");
+    background-size:cover;
+    height: 100vh;
+    
+    padding-top: 20%;
+    padding-left: 35%;
+    
+    
+}
+
+
+.text{
+    color:white;
+    font-size:60px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+.like{
+    padding:5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    border-radius: 11px;
+    background-color: rgb(255, 204, 0);
+    color: white;
+    margin: 20px;
+    border:none;
+
+}
+
+.comment{
+    padding:5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    border-radius: 11px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(9, 9, 9);
+    margin: 20px;
+    border:none;
+}
+
+.share{
+    padding:5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    border-radius: 11px;
+    background-color: rgb(9, 65, 248);
+    color: white;
+    margin: 20px;
+    border:none;
+}

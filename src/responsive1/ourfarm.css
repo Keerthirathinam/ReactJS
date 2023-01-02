@@ -1,0 +1,27 @@
+.ourfarmcontent{
+  
+    height: 60vh;
+    width: 100%;
+    
+}
+
+.boxfarm{
+    height: 50vh;
+    padding-top: 9%;
+    width:60%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.happy2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color:orange;
+}
+
+.happy3{
+color:green;
+}

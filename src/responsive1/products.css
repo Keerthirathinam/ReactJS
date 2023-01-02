@@ -1,0 +1,11 @@
+.productscontent{
+background-color: azure;
+height: 100%;
+width: 100%;
+}
+
+.fruits{
+    height:60%;
+    width:60%;
+    margin-left: 36px;
+}

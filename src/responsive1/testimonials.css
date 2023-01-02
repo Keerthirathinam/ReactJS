@@ -1,0 +1,30 @@
+.testi{
+    height: 100%;
+    width:100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.testicontent{
+    height:100%;
+    width:100%;
+}
+
+.testicon{
+    height: 50vh;
+    padding-top: 9%;
+    width:60%;
+}
+
+.happy{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color:orange;
+}
+
+.happy1{
+color:green;
+}

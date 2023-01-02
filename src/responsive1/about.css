@@ -1,0 +1,27 @@
+.aboutcontent{
+    
+    height:30%;
+    width:100%;
+    background-color: azure;
+    
+}
+
+
+*{
+    margin:0;
+    padding-right:0px;
+    padding-left:0px;
+
+}
+
+.emptydiv{
+    height: 40vh;
+    width:100%;
+    
+}
+
+.aboutall{
+    height:100%;
+    width:100%;
+    background-color: white;
+}
